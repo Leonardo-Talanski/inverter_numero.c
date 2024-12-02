@@ -1,1 +1,0 @@
-# inverter_numero.c
